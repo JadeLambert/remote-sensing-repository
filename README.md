@@ -1,6 +1,7 @@
 # Remote Sensing Repository
 
 Student name : Jade Lambert
+
 Course name : Satellite Remote Sensing Applications and Lab (366206)
 
 This GitHub repository will serve to document my remote sensing exercises and projects throughout the whole semester.
